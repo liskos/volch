@@ -1,2 +1,1 @@
-print("egoooor"
-123455667777777777777
+print("egoooor")
